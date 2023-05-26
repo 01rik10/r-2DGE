@@ -1,0 +1,3 @@
+Establishing Polygon as the fundamental shape in the engine:
+	-Finding the best Triangulation algorithm.
+	-Improve Polygon intersection with Polygon (Finding closest point on one of the edges, instead of center to center)

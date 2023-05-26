@@ -1,0 +1,8 @@
+#version 330
+in vec3 rgb;
+
+out vec4 color;
+
+void main(){
+	color = vec4(rgb.x, rgb.y, rgb.z, 1.0);
+}
